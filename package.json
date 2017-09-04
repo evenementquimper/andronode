@@ -1,0 +1,19 @@
+{
+  "name": "andronode",
+  "version": "1.0.0",
+  "description": "android node",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evenementquimper/andronode.git"
+  },
+  "author": "antoine donniou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evenementquimper/andronode/issues"
+  },
+  "homepage": "https://github.com/evenementquimper/andronode#readme"
+}
